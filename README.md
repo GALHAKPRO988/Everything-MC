@@ -1,233 +1,221 @@
 # ⛏️ Everything-MC
 
 <p align="center">
-  <strong>Everything you could need about Minecraft, in one place.</strong>
-  <br>
-  <sub>Assets · Wallpapers · Useful websites · Server development</sub>
+  <img src="https://img.shields.io/badge/Minecraft-Everything-62C0FF?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
+  <img src="https://img.shields.io/badge/Resources-Collection-915BFA?style=for-the-badge" alt="Resources">
+  <img src="https://img.shields.io/badge/Community-Project-blue?style=for-the-badge" alt="Community Project">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Resources-62C0FF?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Resources">
-  <img src="https://img.shields.io/github/repo-size/Galhakpro988/Everything-MC?style=for-the-badge&label=Repo%20Size" alt="Repo Size">
-  <img src="https://img.shields.io/github/license/Galhakpro988/Everything-MC?style=for-the-badge" alt="License">
+  <strong>A collection of Minecraft assets, wallpapers, websites and resources.</strong>
+  <br>
+  <sub>Players · Creators · Builders · Server Developers</sub>
 </p>
 
 ---
 
-## 📖 About
+## 📖 What is Everything-MC?
 
-**Everything-MC** is a collection of Minecraft-related resources that I wanted to have easily accessible without having to search through dozens of different websites every time.
+**Everything-MC** is a personal collection of Minecraft resources gathered together in one place.
 
-The idea is simple:
+Minecraft has an absurd amount of useful stuff spread across different websites, repositories and downloads. This project is meant to make finding that stuff a lot easier.
 
-> **If it's useful for Minecraft, it belongs here.**
+Instead of searching through old bookmarks, random posts, outdated websites or dozens of GitHub repositories, the idea is to have one place where the useful things are already organized.
 
-The repository contains game assets, wallpapers from the official Minecraft website, useful websites for players, and a dedicated collection of resources for people who develop or manage Minecraft servers.
+It includes:
 
-It is meant to be useful both as a personal reference and as a quick place to find resources that are normally scattered all over the internet.
+- 🎮 Minecraft game assets and resources
+- 🖼️ Wallpapers published through the official Minecraft website
+- 🌐 Useful websites for regular Minecraft players
+- 🧑‍💻 Useful websites for Minecraft server developers
+- 📚 References and resources worth keeping around
+
+Basically:
+
+> **Minecraft stuff. All in one place.**
 
 ---
 
-## 🗂️ What's inside?
+## 🗂️ Repository
 
 ```text
 Everything-MC/
 │
 ├── 📁 minecraft/
-│   └── 🎮 Minecraft game assets and resources
+│   └── Minecraft assets and game resources
 │
 ├── 📁 wallpapers/
-│   └── 🖼️ Official Minecraft wallpapers
+│   └── Minecraft wallpapers and available formats
 │
 ├── 📄 webs.md
-│   └── 🌐 Useful websites for Minecraft players
+│   └── Useful websites for Minecraft players
 │
-└── 📄 webs_for_server_developers.md
-    └── 🧑‍💻 Useful websites for Minecraft server developers
+├── 📄 webs_for_server_developers.md
+│   └── Useful websites for Minecraft server developers
+│
+├── 📄 LICENSE
+│   └── Everything-MC licensing and third-party notice
+│
+└── 📄 README.md
 ```
 
 ---
 
-## 🎮 `/minecraft`
+# 🎮 Minecraft
 
-This is the biggest part of the repository.
+## `/minecraft`
 
-The `minecraft` folder contains **Minecraft's game assets and other resources used by the game**, keeping everything together in one place instead of having to look for individual files separately.
+The `minecraft` directory contains Minecraft-related game assets and resources.
 
-Depending on what you are looking for, this can be useful for things such as:
+This section is mainly intended as a large reference collection for people who work with Minecraft files, resource packs, tools, development, or simply want to have the game's resources available in an organized structure.
 
-- Resource pack creation
-- Minecraft-related projects
-- Texture references
-- UI and GUI work
-- Mod development
-- Plugin development
-- Server projects
-- General Minecraft research
+Depending on the version and contents included, this can contain things such as:
 
-The idea is to keep the original structure as intact as possible so that navigating the files is straightforward.
+- Textures
+- Models
+- Sounds
+- Fonts
+- UI resources
+- Language files
+- Game data
+- Asset indexes
+- Other Minecraft resources
 
----
-
-## 🖼️ `/wallpapers`
-
-A collection of wallpapers available through the **official Minecraft website**, stored with their different available formats and resolutions.
-
-Whether you want a new desktop background, a phone wallpaper, or simply want to keep some Minecraft artwork locally, this folder keeps the different versions together.
-
-### 📱 Formats
-
-The folder includes the different formats/resolutions available for the wallpapers rather than keeping only a single version.
-
-That makes it easier to pick the appropriate file depending on where you want to use it.
+Some of these files originate from publicly available Minecraft asset collections, including the `InventivetalentDev/minecraft-assets` project.
 
 ---
 
-## 🌐 `webs.md`
+# 🖼️ Wallpapers
 
-Not everything needs a download.
+## `/wallpapers`
 
-`webs.md` is a collection of **useful Minecraft websites for regular players**, bringing together tools, databases, references and other pages that can make playing Minecraft a little easier.
+A collection of wallpapers published through the official Minecraft website.
 
-It is especially aimed at casual players who just want to find a useful website without spending half an hour searching for it.
+Different versions and formats are kept together whenever available, making the folder useful whether you're looking for something for a desktop, laptop, phone or simply want to keep the original files archived.
 
-You'll find resources related to things such as:
+The goal is not to have a single compressed wallpaper collection, but to keep the available variants organized instead.
 
-- 🔎 Finding information about Minecraft
-- 📚 Game references and databases
-- 🧱 Building
+---
+
+# 🌐 Useful Websites
+
+## [`webs.md`](webs.md)
+
+A list of useful websites for **Minecraft players**.
+
+This section is aimed mostly at casual players, builders and people who simply want useful Minecraft tools without having to search for them every time.
+
+Expect things such as:
+
+- 🔎 Minecraft information
+- 📚 Databases and references
+- 🧱 Building resources
 - 🎨 Skins and customization
 - 🗺️ Maps
-- 🔧 Tools and utilities
-- 📊 Minecraft information
-- 🌍 General Minecraft resources
+- 🔧 Useful tools
+- 📊 Game information
+- 🌍 Community resources
+- 🧰 Randomly useful Minecraft websites
 
-### → [View `webs.md`](webs.md)
+Not every website is something you'll use every day.
+
+That's kind of the point.
 
 ---
 
-## 🧑‍💻 `webs_for_server_developers.md`
+# 🧑‍💻 Server Development
 
-Running or developing a Minecraft server is a completely different story.
+## [`webs_for_server_developers.md`](webs_for_server_developers.md)
 
-This file contains a separate collection of **websites and resources specifically useful for Minecraft server developers and administrators**.
+A separate collection of websites for people who **develop, configure or manage Minecraft servers**.
 
-It is intended for people working with things such as:
+This includes resources related to:
 
-- 🔌 Plugins
-- ⚙️ Server configuration
+- 🔌 Bukkit / Spigot / Paper / Purpur
+- 🧩 Plugins
 - 📖 Documentation
-- 🧩 APIs
+- 💻 APIs
 - 🛠️ Development tools
-- 💾 Databases
+- ⚙️ Configuration
+- 🗄️ Databases
 - 🎨 Resource packs
-- 🤖 Server automation
-- 🚀 Performance
+- 🚀 Performance and optimization
 - 🌐 Networking
-- 🧱 Server platforms
-- 📦 Server resources
+- 📦 Server software
+- 🧱 Server infrastructure
 
-The goal is to keep all the useful development links in one place instead of having a browser full of bookmarks.
-
-### → [View `webs_for_server_developers.md`](webs_for_server_developers.md)
+This file is intended to be the kind of list you can keep open while working on a server.
 
 ---
 
-## 💡 Why does this exist?
-
-Minecraft has been around for a long time, and because of that there is an **enormous amount of information and resources spread across the internet**.
-
-The problem is not usually finding a resource.
-
-The problem is remembering **where you found it**.
-
-This repository is basically my attempt to solve that.
-
-Instead of:
-
-```text
-Google
-   ↓
-Search
-   ↓
-Open 15 tabs
-   ↓
-Find the correct website
-   ↓
-Realize it was bookmarked somewhere else
-   ↓
-Repeat
-```
-
-You can just come here.
-
----
-
-## 📦 Repository philosophy
-
-Everything in this repository is organized around a few simple ideas:
-
-**Keep it useful.**  
-Resources should have a practical purpose.
-
-**Keep it organized.**  
-Files should go where you would expect to find them.
-
-**Keep it accessible.**  
-The repository should be useful even if you have never seen it before.
-
-**Keep adding things.**  
-Minecraft is constantly evolving, so this collection is expected to grow over time.
-
----
-
-## 🔗 Quick access
+# 🧭 Quick Navigation
 
 | Section | Description |
-|---|---|
+|:--|:--|
 | 🎮 [`minecraft/`](minecraft/) | Minecraft assets and game resources |
-| 🖼️ [`wallpapers/`](wallpapers/) | Official Minecraft wallpapers |
-| 🌐 [`webs.md`](webs.md) | Useful websites for Minecraft players |
-| 🧑‍💻 [`webs_for_server_developers.md`](webs_for_server_developers.md) | Resources for server developers |
+| 🖼️ [`wallpapers/`](wallpapers/) | Minecraft wallpapers and formats |
+| 🌐 [`webs.md`](webs.md) | Websites for Minecraft players |
+| 🧑‍💻 [`webs_for_server_developers.md`](webs_for_server_developers.md) | Websites for server developers |
+| 📄 [`LICENSE`](LICENSE) | Repository license and third-party information |
 
 ---
 
-## ⭐ Want to contribute?
+# 📦 Why?
 
-Found a useful Minecraft website that isn't included yet?
+There are already thousands of Minecraft websites, projects, tools and resources.
 
-Have a resource that would fit perfectly in this repository?
+The problem is finding the right one.
 
-Feel free to open an **Issue** or a **Pull Request** with the addition.
+You might need a specific texture, a server development reference, a skin website, a map, a technical article or some obscure tool you found three months ago.
 
-Please try to keep new resources organized and add them to the appropriate section.
+Then you spend 20 minutes trying to find it again.
 
----
-
-## ⚠️ Disclaimer
-
-**Everything-MC is an independent community project and is not affiliated with, sponsored by, or endorsed by Mojang Studios or Microsoft.**
-
-Minecraft and its related assets, trademarks and branding belong to their respective owners.
-
-The `wallpapers/` collection consists of wallpapers originating from the official Minecraft website and is included here for convenient reference and personal use.
+**Everything-MC is basically a collection of all those things worth keeping.**
 
 ---
 
-## 🧱 Minecraft
+# 🛠️ Keeping Things Organized
+
+The repository is intentionally split into different sections instead of putting everything into one giant folder.
+
+Minecraft files go into `minecraft/`.
+
+Wallpapers go into `wallpapers/`.
+
+Player-focused websites go into `webs.md`.
+
+Server development resources go into `webs_for_server_developers.md`.
+
+Simple enough.
+
+---
+
+# ⚠️ Copyright & Third-Party Content
+
+Everything-MC is an **unofficial community project** and is not affiliated with, endorsed by or sponsored by Mojang Studios or Microsoft.
+
+Minecraft and its associated intellectual property belong to their respective owners.
+
+Some material in this repository is **third-party content** and is not owned by the Everything-MC contributors. The repository license therefore does not attempt to re-license those materials.
+
+Where applicable, third-party sources are credited in the repository.
+
+For Minecraft-related material, please refer to the official Minecraft Usage Guidelines and the terms of the respective copyright holders.
+
+---
+
+# 📜 License
+
+Original content created for Everything-MC is covered by the **Everything-MC License**.
+
+Third-party content is **not covered by this license** and remains subject to its respective rights and terms.
+
+See [`LICENSE`](LICENSE) for the complete text.
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Galhakpro988/Everything-MC/main/wallpapers/Minecraft.jpg" width="700" alt="Minecraft">
-</p>
-
-<p align="center">
-  <sub>Built around one of the biggest games ever made.</sub>
-</p>
-
----
-
-<p align="center">
-  <sub>Made for Minecraft players, builders, creators and server developers.</sub>
-  <br>
   <strong>⛏️ Everything-MC</strong>
+  <br>
+  <sub>Everything Minecraft. In one place.</sub>
 </p>
