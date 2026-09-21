@@ -1,0 +1,80 @@
+Everything-MC License
+Version 1.0 — 2026
+
+Copyright (c) 2026 Everything-MC contributors
+
+1. SCOPE
+
+This license applies only to original content created or substantially
+modified by the authors of the Everything-MC repository.
+
+Original repository content may be used, copied, modified and
+redistributed for personal, educational, or non-commercial purposes,
+provided that reasonable attribution is maintained where appropriate.
+
+2. THIRD-PARTY CONTENT
+
+This license does NOT grant, transfer, or imply any rights to third-party
+content contained in this repository.
+
+Third-party content may include, but is not limited to:
+
+- Minecraft game assets
+- Minecraft textures
+- Minecraft models
+- Minecraft sounds
+- Minecraft artwork
+- Minecraft wallpapers
+- Minecraft-related trademarks, logos and branding
+- Assets obtained from other public repositories
+- Any other material not originally created by the Everything-MC authors
+
+Third-party content remains the property of its respective copyright
+holders and is subject to their own copyright, licenses, terms,
+permissions and usage guidelines.
+
+In particular, Minecraft and its associated assets, branding and
+intellectual property are owned by Mojang Studios and/or Microsoft.
+
+3. MINECRAFT ASSETS
+
+The inclusion of Minecraft assets in this repository does not mean that
+the Everything-MC authors claim ownership of those assets or grant
+additional rights to them.
+
+Users are responsible for determining whether their use,
+redistribution, modification or other handling of third-party content
+is permitted by the respective copyright holder.
+
+4. SOURCE ATTRIBUTION
+
+Where third-party material has been obtained from another public
+repository, the original source should be credited whenever reasonably
+possible.
+
+For Minecraft assets associated with the minecraft-assets project, the
+source repository is:
+
+InventivetalentDev/minecraft-assets
+
+5. TRADEMARKS AND AFFILIATION
+
+Everything-MC is an unofficial community project.
+
+Everything-MC is not affiliated with, sponsored by, endorsed by, or
+otherwise officially connected to Mojang Studios or Microsoft.
+
+"Minecraft", Mojang and related names, logos, assets and trademarks
+belong to their respective owners.
+
+6. NO WARRANTY
+
+The original content covered by this license is provided "AS IS",
+without warranties or conditions of any kind.
+
+7. SEVERABILITY
+
+If any provision of this license is found to be invalid or
+unenforceable, the remaining provisions shall remain in effect.
+
+END OF LICENSE
